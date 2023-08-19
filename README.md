@@ -9,7 +9,7 @@ Sou um entusiasta de desenvolvimento de software e atualmente estou estudando an
 
 ## Contato
 <p align="center">
-  <a href="https://instagram.com/tondevpy" target="_blank">
+  <a href="https://instagram.com/ton_devpy" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - tondevpy">
   </a>
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
