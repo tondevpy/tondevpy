@@ -18,13 +18,14 @@ Sou um entusiasta de desenvolvimento de software e atualmente estou estudando an
 
 ## Softskills:
 
-- ![Skill 1](https://clarius.com.br/wp-content/uploads/2016/11/comunicacao-Adriana-clarius.png) Comunicação
-- ![Skill 2](https://i0.wp.com/blog.portaleducacao.com.br/wp-content/uploads/2022/06/A-importancia-do-trabalho-em-equipe.jpg) Trabalho em equipe
+- Comunicação
+- Trabalho em equipe
+- Resolução de Problemas
+- Adaptabilidade
+- Liderança
 
 ## Estudando:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## Contato
 <p align="center">
