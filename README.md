@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Everton
 
-![Foto de Everton]([URL_DA_IMAGEM_DO_INSTAGRAM](https://i.ibb.co/93BXrbX/Screenshot-4.png))
+![Foto de Everton](https://i.ibb.co/93BXrbX/Screenshot-4.png))
 
 Sou um entusiasta de desenvolvimento de software e atualmente estou estudando análise de desenvolvimento de softwares na Faculdade Unicesumar.
 
