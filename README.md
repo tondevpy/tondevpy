@@ -1,6 +1,9 @@
 # Hello! 👋 I'm Everton
 
-![Everton's Photo](https://i.ibb.co/93BXrbX/Screenshot-4.png)
+<p align="center">
+  <img src="https://i.ibb.co/93BXrbX/Screenshot-4.png" alt="Everton's Photo">
+</p>
+
 
 I'm a software development enthusiast and currently studying software development analysis at Unicesumar College. I started my journey in the programming world when I discovered the magic of turning ideas into reality through code. Passionate about web development, I have a special fondness for Django.
 
