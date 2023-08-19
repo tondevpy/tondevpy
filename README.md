@@ -4,7 +4,7 @@
 
 Sou um entusiasta de desenvolvimento de software e atualmente estou estudando análise de desenvolvimento de softwares na Faculdade Unicesumar. Iniciei minha jornada no mundo da programação quando descobri a magia de transformar ideias em realidade através do código. Apaixonado por desenvolvimento web, tenho uma inclinação especial pelo Django.
 
-- 🔭 Confira alguns dos meus [projetos destacados](#) (Insira um link para a seção do seu portfólio ou repositórios em destaque)
+- 🔭 Confira alguns dos meus (Breve link do portfólio)
 - 🌱 Aprendendo constantemente e aberto a novas oportunidades.
 
 ## 🛠 Habilidades
