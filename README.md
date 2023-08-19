@@ -28,6 +28,9 @@ Sou um entusiasta de desenvolvimento de software e atualmente estou estudando an
 
 ![Everton's github stats](https://github-readme-stats.vercel.app/api?username=tondevpy&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tondevpy&layout=compact)](https://github.com/tondevpy/github-readme-stats)
+
+
 
 ## 📞 Contato
 <p align="center">
