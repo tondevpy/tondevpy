@@ -17,10 +17,9 @@ Sou um entusiasta de desenvolvimento de software e atualmente estou estudando an
 ![Automação com Python](https://img.shields.io/badge/Automação%20com%20-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Softskills:
-*Note: Insira as imagens das softskills aqui, por exemplo:*
-- ![Skill 1](URL_DA_IMAGEM_1) Comunicação
-- ![Skill 2](URL_DA_IMAGEM_2) Trabalho em equipe
-- E assim por diante...
+
+- ![Skill 1](https://clarius.com.br/wp-content/uploads/2016/11/comunicacao-Adriana-clarius.png) Comunicação
+- ![Skill 2](https://i0.wp.com/blog.portaleducacao.com.br/wp-content/uploads/2022/06/A-importancia-do-trabalho-em-equipe.jpg) Trabalho em equipe
 
 ## Estudando:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
