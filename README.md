@@ -38,7 +38,7 @@ I'm a software development enthusiast and currently studying software developmen
   <a href="https://instagram.com/ton_devpy" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - tondevpy">
   </a>
-  <a href="https://www.linkedin.com/in/ton-d-9721a0276/">
+  <a href="https://www.linkedin.com/in/everton-t-9721a0276/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
