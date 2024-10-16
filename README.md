@@ -5,7 +5,7 @@
 </p>
 
 
-I'm a software development enthusiast and currently studying software development analysis at Unicesumar College. I started my journey in the programming world when I discovered the magic of turning ideas into reality through code. Passionate about web development, I have a special fondness for Django.
+I'm a software development and currently studying software development analysis at Unicesumar College. I started my journey in the programming world when I discovered the magic of turning ideas into reality through code. Passionate about web development, I have a special fondness for Django.
 
 - 🔭 Check out some of my projects (Link to portfolio coming soon)
 - 🌱 Constantly learning and open to new opportunities.
