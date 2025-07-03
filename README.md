@@ -1,74 +1,80 @@
-<h1 align="center">Olá, eu sou o Everton! 👋</h1>
 
+<!-- Dark themed profile README by tondevpy -->
+
+<h1 align="center" style="color:white;">👨‍💻 Everton Macieira</h1>
 <p align="center">
-  <img src="https://i.ibb.co/93BXrbX/Screenshot-4.png" width="180px" style="border-radius: 50%;" alt="Everton's photo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ethical+Hacker+%7C+Python+Automation;Cybersecurity+Student+%7C+Red+Teamer;Web+Pentesting+%7C+Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"Turning ideas into reality through code."</i>
-</p>
-
-<p align="center">
-  💻 Desenvolvedor apaixonado por <b>automação</b> e <b>web</b> <br/>
-  🎓 Estudando Análise e Desenvolvimento de Sistemas na Unicesumar <br/>
-  🚀 Amante de <b>Django</b> e back-end Python
+  <img src="https://i.ibb.co/93BXrbX/Screenshot-4.png" width="150px" alt="Everton" style="border-radius: 100px;"/>
 </p>
 
 ---
 
-## ⚙️ &nbsp;Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation%20with%20-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
 
-## 🧠 &nbsp;Estudando agora
+## 🧠 Sobre mim
+
+```txt
+🔍 Estudante de Análise e Desenvolvimento de Sistemas  
+🧠 Hacker ético em formação, apaixonado por segurança ofensiva  
+💻 Automação com Python e testes de intrusão são minha praia  
+🎯 Buscando sempre entender como explorar — para poder defender
+```
+
+---
+
+## 🛠️ Stack Técnica
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,php,react,linux" />
+</p>
+
+> ⚙️ Também uso: `ffuf`, `burp`, `nmap`, `sqlmap`, `nuclei`, `dalfox`...
+
+---
+
+## 📊 Stats e progresso
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tondevpy&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondevpy&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🌟 &nbsp;Soft Skills
+## 🌱 Em aprendizado
 
 <p align="center">
-  📢 Comunicação &nbsp; • &nbsp; 🤝 Trabalho em equipe &nbsp; • &nbsp; 🧩 Resolução de Problemas <br/>
-  🔄 Adaptabilidade &nbsp; • &nbsp; 🎯 Liderança
+  <img src="https://img.shields.io/badge/Red%20Team-20232A?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/XSS%20Hunting-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/API%20Hacking-8B0000?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
 
-## 📊 &nbsp;Estatísticas
+## 📫 Conecte-se comigo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tondevpy&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondevpy&layout=compact&theme=radical" width="47%"/>
-</p>
-
----
-
-## 📞 &nbsp;Entre em contato
-
-<p align="center">
-  <a href="https://instagram.com/ton_devpy" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://instagram.com/ton_devpy">
+    <img src="https://img.shields.io/badge/@ton_devpy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/everton-t-9721a0276/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/everton-t-9721a0276/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tondevpy/tondevpy/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://komarev.com/ghpvc/?username=tondevpy&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
