@@ -3,7 +3,7 @@
 
 <h1 align="center" style="color:white;">👨‍💻 Everton Macieira</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ethical+Hacker+%7C+Python+Automation;Cybersecurity+Student+%7C+Red+Teamer;Web+Pentesting+%7C+Bug+Bounty+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Programador+Full-Stack+%7C+Python+Automation;Cybersecurity+Student+%7C+Red+Teamer;Web+Pentesting+%7C+Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
