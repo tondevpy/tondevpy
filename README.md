@@ -22,7 +22,8 @@
 
 ```txt
 🔍 Estudante de Análise e Desenvolvimento de Sistemas  
-🧠 Hacker ético em formação, apaixonado por segurança ofensiva  
+🧠 Programador & Especialista
+em Automação Python  
 💻 Automação com Python e testes de intrusão são minha praia  
 🎯 Buscando sempre entender como explorar — para poder defender
 ```
