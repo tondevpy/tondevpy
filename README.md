@@ -22,8 +22,7 @@
 
 ```txt
 🔍 Estudante de Análise e Desenvolvimento de Sistemas  
-🧠 Programador & Especialista
-em Automação Python  
+🧠 Programador & Especialista em Automação Python  
 💻 Automação com Python e testes de intrusão são minha praia  
 🎯 Buscando sempre entender como explorar — para poder defender
 ```
